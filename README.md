@@ -2,6 +2,26 @@
 
 ### Engineering Discovery Engine & Production-Grade Project Blueprint Platform
 
+**[🚀 EXPLORE IDEA FORGE — LIVE WEBSITE] (https://idea-forge1.ai.studio/)**
+
+**Build projects that demonstrate engineering. Not just projects that demonstrate syntax.**
+
+IDEA FORGE is an open-access engineering discovery platform designed for ambitious computer science engineers, hackers, and B.Tech CSE students who want to move beyond conventional academic projects and explore technically meaningful software, research, and hardware systems.
+
+
+
+
+
+
+
+
+
+
+
+IDEA FORGE
+
+### Engineering Discovery Engine & Production-Grade Project Blueprint Platform
+
 **Build projects that demonstrate engineering. Not just projects that demonstrate syntax.**
 
 IDEA FORGE is an open-access engineering discovery platform designed for ambitious computer science engineers, hackers, and B.Tech CSE students who want to move beyond conventional academic projects and explore technically meaningful software, research, and hardware systems.
